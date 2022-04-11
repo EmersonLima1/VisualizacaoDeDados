@@ -17,5 +17,18 @@ A Visualização de Dados ajuda a entender e interpretar melhor os dados, princi
   - Mapas: um mapa é uma representação visual de uma área de um terreno. Os mapas mostram características físicas, como regiões, paisagens, estradas. Além disso, os mapas podem ser temáticos (políticos, físicos, demográficos, econômicos). A leitura do mapa é feita pela identificação dos elementos dos mapas (título, legenda, orientação, escala e projeção cartográfica) e interpretação dos seus símbolos.
   
 # Como escolher os gráficos certos para o dados?
+Primeiramente, antes de escolher qual gráfico utilizar, é necessário entender qual mensagem/informação/história desejamos passar com o gráfico.
+
+Basicamente existem 4 tipos principais de gráficos, são eles:
+  - Gráficos de comparação: são usados para comparar um ou mais conjunto de dados. Esses gráficos podem ser usados para comparar itens ou mostrar diferenças ao longo do tempo;
+  - Gráficos de relação: são usados para mostrar uma conexão ou correlação entre duas ou mais variáveis;
+  - Gráficos de composição: são usados para exibir partes de um todo;
+  - Gráficos de distribuição: são usados para mostrar como as variáveis são distribuídas ao longo do tempo, ajudando a identificar valores discrepantes e tendências.
+
+**Exemplos de Gráficos de comparação**
+  - Radar: é usado para apresentar dados multivariáveis na forma de um gráfico bidimensional de três ou mais variáveis quantitativas representadas em eixos que partem do mesmo ponto. É muito utilizado no setor de RH, e bastante útil para representar características e competências de cada colaborador;
+  - Colunas: esse tipo de gráfico é útil para mostrar mudanças de dados durante um período ou para apresentar a comparação entre itens. Nos gráficos de colunas, as categorias são geralmente organizadas ao longo do eixo horizontal e os valores ao longo do eixo vertical;
+  - Linhas: é mais utilizado quando precisa-se visualizar tendências e movimentos ao longo de espaçamentos de tempo, como meses, trimestres ou anos fiscais;
+  - Barras: é um gráfico que usa barras com comprimentos proporcionais para comparar dados entre categorias;
 
       
