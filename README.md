@@ -52,7 +52,7 @@ Basicamente existem 4 tipos principais de gráficos, são eles:
   
  **3 bibliotecas Python para visualização de dados**
   - **Matplotlib**: é uma biblioteca de visualização de dados e biblioteca de plotagem 2-D do Python. Essa biblioteca pode ser usada para criar plotagens, gráficos de barras, gráficos de setores circulares, histogramas, gráficos de dispersão, gráficos de erro, espectros de potência, gráficos-tronco etc;
-  - **Plotpy**: é uma biblioteca gráfica de código aberto gratuita que pode ser usada para formar visualizações de dados. Plotly fornece mais de 40 tipos de gráficos exclusivos, como gráficos de dispersão, histogramas, gráficos de linha, gráficos de barras, gráficos de pizza, barras de erro, gráficos de caixa, vários eixos, minigráficos, dendrogramas, gráficos 3D etc;
+  - **Plotly**: é uma biblioteca gráfica de código aberto gratuita que pode ser usada para formar visualizações de dados. Plotly fornece mais de 40 tipos de gráficos exclusivos, como gráficos de dispersão, histogramas, gráficos de linha, gráficos de barras, gráficos de pizza, barras de erro, gráficos de caixa, vários eixos, minigráficos, dendrogramas, gráficos 3D etc;
   - **Seaborn**: é uma biblioteca de visualização de dados Python baseada em Matplotlib e intimamente integrada com as estruturas de dados NumPy e pandas. Seaborn tem várias funções de plotagem orientadas a conjuntos de dados que operam em quadros de dados e matrizes que contêm conjuntos de dados inteiros. Os gráficos de dados Seaborn podem incluir gráficos de barras, gráficos de pizza, histogramas, gráficos de dispersão, gráficos de erro, etc. Seaborn também tem várias ferramentas para escolher paletas de cores que podem revelar padrões nos dados.
  
 
