@@ -6,19 +6,19 @@ Nesse repositório estarei postando sobre visualização de dados utilizando as 
 
 # Breve resumo sobre Visualização de Dados
 
-# O que é Visualização de Dados?
+## O que é Visualização de Dados?
 A Visualização de Dados é uma forma de comunicação visual com o objetivo de representar visualmente os dados. 
 
-# Para que serve a Visualização de Dados?
+## Para que serve a Visualização de Dados?
 A Visualização de Dados ajuda a entender e interpretar melhor os dados, principalmente quando trata-se de um grande volume de dados envolvidos. A Visualização de Dados serve para deixar os dados mais fáceis de compreender, contar uma história sobre os dados em questão, reforçar um argumento ou opinião, identificar tendências ou situações atípicas dentro do conjunto de dados, além de servir também para destacar algum ponto importante dentro do conjunto de dados etc.
 
-# Alguns tipos de Visualizações de Dados:
+## Alguns tipos de Visualizações de Dados:
   - **Infográficos**: um infográfico é uma coleção de elementos gráficos-visuais (imagens, gráficos, diagrama estatístico) e com pouco texto, que fornece uma visão abrangente e de fácil compreensão sobre determinado assunto;
   - **Gráficos**: um gráfico é uma representação geométrica e visual de um conjunto de dados. Os gráficos usam simbolos visuais como linhas, barras, pontos, setores para representar pontos de dados. Os gráficos auxiliam na identificação de padrões, na comparação de medidas e também na verificação de resultados. Alguns tipos de gráficos incluem: gráfico de barras, gráfico de setores, gráfico de linhas, gráficos de dispersão etc.
   - **Diagramas**: um diagrama é uma representação gráfica usada para demonstrar um esquema simplicado ou um resumo sobre um assunto. Os diagramas podem ser bidimensionais ou tridimensionais. Alguns diagramas famosos incluem: Diagrama de Venn, fluxogramas (que é um diagrama que descreve um processo, sistema ou algoritmo de computador), mapas mentais, diagrama de classes (que é usado na programação de computadores e nesse diagrama são representadas as estruturas e relações de classes de um projeto).
   - **Mapas**: um mapa é uma representação visual de uma área de um terreno. Os mapas mostram características físicas, como regiões, paisagens, estradas. Além disso, os mapas podem ser temáticos (políticos, físicos, demográficos, econômicos). A leitura do mapa é feita pela identificação dos elementos dos mapas (título, legenda, orientação, escala e projeção cartográfica) e interpretação dos seus símbolos.
   
-# Como escolher os gráficos certos para o dados?
+## Como escolher os gráficos certos para o dados?
 Primeiramente, antes de escolher qual gráfico utilizar, é necessário entender qual mensagem/informação/história desejamos passar com o gráfico.
 
 Basicamente existem 4 tipos principais de gráficos, são eles:
@@ -48,7 +48,7 @@ Basicamente existem 4 tipos principais de gráficos, são eles:
   - **Histograma**: é um gráfico de barras verticais que compartilha dados de diferentes categorias ou intervalos. Esse tipo de gráfico representa dados quantitativos, agrupados em classes de frequência que permite distinguir a forma, o ponto central e a variação da distribuição, além de outros dados como amplitude e simetria na distribuição dos dados.
   - **Box plot**: é uma ferramenta gráfica que permite visualizar a distribuição e valores discrepantes (outliers) dos dados. Além disso, o boxplot também é uma disposição gráfica comparativa. As medidas de estatísticas descritivas como o mínimo, máximo, primeiro quartil, segundo quartil ou mediana e o terceiro quartil formam o boxplot.
   
-# Visualização de Dados com Python
+## Visualização de Dados com Python
   
  **3 bibliotecas Python para visualização de dados**
   - **Matplotlib**: é uma biblioteca de visualização de dados e biblioteca de plotagem 2-D do Python. Essa biblioteca pode ser usada para criar plotagens, gráficos de barras, gráficos de setores circulares, histogramas, gráficos de dispersão, gráficos de erro, espectros de potência, gráficos-tronco etc;
